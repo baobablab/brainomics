@@ -1,7 +1,7 @@
 
 # Configuration
 
-You have to customize the following parameters in `_config.yml`:
+You have to customize the following parameters in `_config.yml` :
 
 - title: the name of your team.
 - subtitle: the runing title.
