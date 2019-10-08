@@ -1,7 +1,7 @@
 ---
 name: Yasmina Mekki
 position: gradstudent
-avatar: yasmina_mekki.jpg
+avatar:
 joined: 2016
 ---
 

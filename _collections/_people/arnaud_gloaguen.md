@@ -1,7 +1,7 @@
 ---
 name: Arnaud Gloaguen
 position: gradstudent
-avatar: arnaud_gloaguen.jpg
+avatar:
 joined: 2016
 ---
 

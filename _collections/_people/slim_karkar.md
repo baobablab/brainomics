@@ -1,7 +1,7 @@
 ---
 name: Slim Karkar
 position: postdoc
-avatar: slim_karkar.jpg
+avatar: 
 joined: 2017
 ---
 
