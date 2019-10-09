@@ -2,7 +2,7 @@
 layout: page
 name: Vincent Frouin
 position: pi
-avatar: vincent_frouin.png
+avatar: 
 joined: 2006
 ---
 
@@ -17,6 +17,5 @@ joined: 2006
 NeuroSpin <br>
 France
 
-[Vincent](http://brainomics.org/) runs his lab at NeuroSpin Cea France.
-Vincent is interested in the question of how the brain ....
+[Vincent](http://brainomics.org/) Researches.
 
