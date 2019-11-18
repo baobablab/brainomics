@@ -10,7 +10,7 @@ added: 2019
 ---
 
 
-![image-title-here]({{site.baseurl}}/images/research/{{page.icon}}){:class="image"}
+![image-title-here]({{site.url}}/{{site.baseurl}}/images/research/{{page.icon}}){:class="image"}
 
 &#169; NeuroSpin/CEA. 
 

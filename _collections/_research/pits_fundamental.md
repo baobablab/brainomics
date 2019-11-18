@@ -12,7 +12,7 @@ added: 2019
 
 Pits or sulcal roots are the starting marks of the sulcation process on the brain of foetus which occurs in the third semester of gestation. They have for long been assumed to be under tight genetic control, but this was never quantified. Pits are still visible in adult MR images of the brain and we studied them in the Human Connectome Project twin cohort.
 
-![image-title-here]({{site.baseurl}}/images/research/{{page.icon}}){:class="image"}
+![image-title-here]({{site.url}}/{{site.baseurl}}/images/research/{{page.icon}}){:class="image"}
 
 &#169; NeuroSpin/CEA. Figure caption:  (a) Deep pits frequency and (b) median DPF of the pits selected as phenotypes in each areal. (c) Heritability and (d) associated –log10(p-values) for all the areals being significant without correction (p < 0.05). The areals which are significant after strict Bonferroni are shown with a color above yellow. Both left and right hemisphere results (a, b, c, d) are presented on the symmetrized (left) template.
 

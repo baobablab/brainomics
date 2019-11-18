@@ -13,7 +13,7 @@ added: 2019
 
 
 
-![image-title-here]({{site.baseurl}}/images/research/{{page.icon}}){:class="image"}
+![image-title-here]({{site.url}}/{{site.baseurl}}/images/research/{{page.icon}}){:class="image"}
 
 &#169; NeuroSpin/CEA. Locuszoom display (Pruim et al. 2011) of the phenotype-variants association results for the region upstream of KCNK2 with the left posterior cingulate sulcus opening as a phenotype (see the red sulci in the orange subfigure). 
 

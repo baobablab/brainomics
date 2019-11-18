@@ -11,7 +11,7 @@ homepage: yes
 added: 2019
 ---
 
-![image-title-here]({{site.baseurl}}/images/research/{{page.icon}}){:class="image"}
+![image-title-here]({{site.url}}/{{site.baseurl}}/images/research/{{page.icon}}){:class="image"}
 
 &#169; NeuroSpin/CEA. The asymmetry of the superior temporal sulcus (STS) has been identified
 as a species-specific feature of the human brain. The so-called superior
