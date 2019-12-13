@@ -2,10 +2,10 @@
 # Site settings
 title: BrainOmics
 subtitle: Neuroimaging Genetics
-#baseurl:
-#url:
-baseurl: brainomicsteam
-url: https://baobablab.github.io
+baseurl:
+url:
+#baseurl: brainomicsteam
+#url: https://baobablab.github.io
 
 # Contacts
 email: vincent.frouin@cea.fr
