@@ -28,15 +28,8 @@ permalink: /people/
 <div class="content list people">
   {% for profile in people_sorted %}
     {% if profile.position contains item %}
-    <div class="list-item-people">
-      <p class="list-post-title">
-        {% if profile.avatar %}
-            <a href="{{site.url}}/{{site.baseurl}}/{{ profile.url }}"><img width="200" src="{{site.url}}/{{site.baseurl}}/images/people/{{profile.avatar}}"></a>
-        {% else %}
-            <a href="{{site.url}}/{{site.baseurl}}/{{ profile.url }}"><img width="200" src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg"></a>
-        {% endif %}
+    <div style="text-align: left; padding-left: 5em;">
         <a class="name" href="{{site.url}}/{{site.baseurl}}/{{ profile.url }}">{{ profile.name }}</a>
-      </p>
     </div>
     {% endif %}
   {% endfor %}

@@ -1,12 +1,11 @@
 ---
 layout: page
 name: Vincent Frouin
+title: Vincent Frouin
 position: pi
 avatar: 
 joined: 2006
 ---
-
-<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - _Genetic researcher, CEA Evry_<br>
 - _Data integration, CEA Saclay_
