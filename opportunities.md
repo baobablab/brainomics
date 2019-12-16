@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Job opportunities
 permalink: /opportunities/
 expiration: 200
 ---
@@ -36,8 +36,8 @@ Intership, PhD, PostDoc or engineer positions are offered in the project. Do not
       {% if days_since < site.expiration_opportunities %}
         <article>
           <ul>
-            <li>{{job.title}}</li>
-            <li>{{job.profile}}</li>
+            <li><B>Title:</B> {{job.title}}</li>
+            <li><B>Profile:</B> {{job.profile}}</li>
             <center>
             {% if job.ext_url %}
               <a href="{{job.ext_url}}" class="icon fa-cloud-download" target="_blank"><span class="label">Job</span></a>
