@@ -1,5 +1,5 @@
 ---
-author: A.-L. Fouque et al.
+author: A.-L. Fouque, C. Fischer, V. Frouin, P. Ciuciu, & E. Duchesnay.
 title: Comparison of features for voxel-based analysis and classification of anatomical neuroimaging data
 year: 2013
 type: inproceedings

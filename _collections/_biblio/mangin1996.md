@@ -1,5 +1,5 @@
 ---
-author: Jean-Francois Mangin et al.
+author: Jean-Francois Mangin, Jean Regis, & Vincent Frouin.
 title: Shape bottlenecks and conservative flow systems
 year: 1996
 type: inproceedings

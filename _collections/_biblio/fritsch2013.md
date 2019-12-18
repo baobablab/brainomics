@@ -1,5 +1,5 @@
 ---
-author: V. Fritsch et al.
+author: V. Fritsch, B. Da Mota, G. Varoquaux, V. Frouin, E. Loth, J.-B. Poline, & B. Thirion.
 title: Robust group-level inference in neuroimaging genetic studies
 year: 2013
 type: inproceedings

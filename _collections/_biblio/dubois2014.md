@@ -1,5 +1,5 @@
 ---
-author: M. Dubois et al.
+author: M. Dubois, F. Hadj-Selem, T. Lofstedt, M. Perrot, C. Fischer, V. Frouin, & E. Duchesnay.
 title: Predictive support recovery with TV-Elastic Net penalty and logistic regression - An application to structural MRI
 year: 2014
 type: inproceedings

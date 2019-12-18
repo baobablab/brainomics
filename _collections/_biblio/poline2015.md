@@ -1,5 +1,5 @@
 ---
-author: J.-B. Poline et al.
+author: J.-B. Poline, J.L. Breeze, & V. Frouin.
 title: Imaging genetics with fMRI
 year: 2015
 type: book

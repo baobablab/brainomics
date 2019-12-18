@@ -1,5 +1,5 @@
 ---
-author: V. Guillemot et al.
+author: V. Guillemot, L. Le Brusquet, A. Tenenhaus, & V. Frouin.
 title: Graph-Constrained Discriminant Analysis of functional genomics data
 year: 2008
 type: inproceedings

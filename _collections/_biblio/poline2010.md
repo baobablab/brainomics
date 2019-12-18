@@ -1,5 +1,5 @@
 ---
-author: J.-B. Poline et al.
+author: J.-B. Poline, C. Lalanne, A. Tenenhaus, E. Duchesnay, B. Thirion, & V. Frouin.
 title: Imaging genetics - Bio-informatics and bio-statistics challenges
 year: 2010
 type: inproceedings

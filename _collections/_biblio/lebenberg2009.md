@@ -1,5 +1,5 @@
 ---
-author: J. Lebenberg et al.
+author: J. Lebenberg, A-S. Herard, A. Dubois, M. Dhenain, P. Hantraye, V. Frouin, & T. Delzescaux.
 title: Segmentation of anatomo-functional 3d post mortem data using a mri-based 3D digital atlas - Transgenic mouse brains study
 year: 2009
 type: inproceedings

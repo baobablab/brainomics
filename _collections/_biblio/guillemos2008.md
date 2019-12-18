@@ -1,5 +1,5 @@
 ---
-author: V. Guillemot et al.
+author: V. Guillemot, C. Phhilipe, A. Tenenhaus, J. Rollin, X. Gidrol, & V. Frouin.
 title: Grouping levels of exposure with same observable effects before class prediction in toxicogenomics
 year: 2008
 type: inproceedings
