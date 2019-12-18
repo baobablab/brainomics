@@ -10,7 +10,7 @@ permalink: /bibliography/other
 {% assign today = site.time | date: '%Y' %}
 {% assign biblio_sorted = (site.biblio | sort: 'year' | reverse %}
 
-{% for idx in (0..4) %}
+{% for idx in (0..5) %}
 
 {% assign year = today | minus: idx %}
 
@@ -21,20 +21,23 @@ permalink: /bibliography/other
 <div class="bibliography">
   {% for entry in biblio_sorted %}
     {% if entry.year == year %}
-    <li>
-      <div class="text-justify">
+    <div class="text-justify">
+        <li>
         {% if entry.journal %}
-            {{entry.author}}: {{entry.title}}, {{entry.journal}} ({{entry.year}})
+            {{entry.author}} {{entry.title}}, <i>{{entry.journal}}</i> ({{entry.year}})
         {% elsif entry.booktitle %}
-            {{entry.author}}: {{entry.title}}, {{entry.booktitle}} ({{entry.year}})
+            {{entry.author}} {{entry.title}}, {{entry.booktitle}} ({{entry.year}})
         {% else %}
-            {{entry.author}}: {{entry.title}} ({{entry.year}})
+            {{entry.author}} {{entry.title}} ({{entry.year}})
         {% endif %}
         {% if entry.doi %}
-          <a href="http://doi.org/{{entry.doi}}" class="icon fa-500px" target="_blank"><span class="label">DOI</span></a>
+            <a href="http://doi.org/{{entry.doi}}" class="button tiny">DOI</a>
         {% endif %}
-      </div>
-    </li>
+        {% if entry.url %}
+                    <a href="http://{{entry.url}}" class="button tiny">URL</a>
+        {% endif %}
+        </li>
+    </div>
     {% endif %}
   {% endfor %}
 </div>
