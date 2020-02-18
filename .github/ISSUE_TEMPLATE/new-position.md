@@ -2,7 +2,7 @@
 name: New position
 about: Add a new position.
 title: ''
-labels: add
+labels: ''
 assignees: ''
 
 ---

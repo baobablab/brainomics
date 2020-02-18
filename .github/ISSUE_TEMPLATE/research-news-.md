@@ -2,7 +2,7 @@
 name: Research news!
 about: Add some news about your research.
 title: ''
-labels: add
+labels: ''
 assignees: ''
 
 ---

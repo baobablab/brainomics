@@ -2,7 +2,7 @@
 name: New member
 about: Add a new member.
 title: ''
-labels: add
+labels: ''
 assignees: ''
 
 ---
@@ -17,9 +17,11 @@ assignees: ''
 - [ ] Grad Student
 - [ ] Engineer
 
-**Enter a small description**
-- Please enter a small biopic with possible extra resources that can be joined.
+**Please give your agreement on privacy statement**
+- Please send an e-mail to VF in French with the following statements (French RGPD applies). Please cut and paste and send a mail to VF.
+   - Je donne mon accord pour que mes noms/prénoms et dates de présences à NeuroSpin soient mentionnées.
+   - Je souhaite que figure les liens vers les sites d'écoles et d'université d'origine et emplois occupés.
 
 **Do not forget**
-- Upload an avatar to your profile: \<LAST\>_\<FIRST\>.png
+- Upload necsssary icons:  \<LAST\>_\<FIRST\>_\<School\>.png,  \<LAST\>_\<FIRST\>_\<INSTITUTE\>.png
 - Upload the resources of your profile description: \<LAST\>_\<FIRST\>_\<CUSTOM\>.png
