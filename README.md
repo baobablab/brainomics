@@ -1,5 +1,15 @@
 
-# Configuration
+# Team member contributions - How To
+
+Any contribution from all team members is welcome! Please follow click 
+the "Issue" tab (or follow https://github.com/baobablab/brainomicsteam/issues).
+The click the "New issue" button and follow the instructions.
+
+The posted issues will be processed.
+
+# Management of the site - How To
+
+## Configuration
 
 You have to customize the following parameters in `_config.yml`:
 
@@ -18,13 +28,13 @@ Please look at the example and use the same keys.
 
 Note: For the research collection, you will have to add a new `research_<CATEGORY>.md` for new categories.
 
-# (WIP) Editorial - Jekyll Theme
+## (WIP) Editorial - Jekyll Theme
 
 A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/).
 
 ![Editorial Theme](assets/images/screenshot.jpg "Editorial Theme")
 
-# How to Use
+## How to Use
 
 For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details,
 or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
@@ -33,7 +43,7 @@ and [creating pages](https://jekyllrb.com/docs/pages/).
 - **GitLab**: Simply fork this repository and start editing the `_config.yml` file!
 - **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file! The `.gitlab-ci.yml` file is only needed for GitLab Pages, so feel free to delete this if you are using GitHub instead.
 
-# Install local
+## Install local
 
 Jekyll:
 
