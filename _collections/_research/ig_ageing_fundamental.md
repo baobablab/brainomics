@@ -3,7 +3,6 @@ layout: page
 title: Imaging genetics and sulcus opening
 cat: application
 subcat: fundamental
-contact: yann.leguen@cea.fr or vincent.frouin@cea.fr
 headline: Imaging genetics and sulcus opening
 teasing: Gray and white matter volumes are known to reduce with age. This cortical shrinkage is visible on magnetic resonance images. Using the UK Biobank dataset, we replicated this finding and studied the genetic influence on these cortical features of aging.
 contact: yann.leguen@cea.fr or vincent.frouin@cea.fr
