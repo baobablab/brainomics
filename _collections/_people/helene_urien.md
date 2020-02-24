@@ -1,8 +1,7 @@
 ---
-name: Hélene Urien - PhD (2018-present)
+name: Hélene Urien - PhD (Research engineer 2017-2019 -Telecom Paritech)
 title: Hélene Urien
-position: engineer
+position: alumni
 avatar:
 joined: 2017
 ---
-
