@@ -1,5 +1,5 @@
 ---
-author: Yasmina Mekki, Cathy Philippe, Vincent Guillemot, Herve Lema\^itre, & Vincent Frouin.
+author: Yasmina Mekki, Cathy Philippe, Vincent Guillemot, Hervé Lemaitre, & Vincent Frouin.
 title: Heritability of the language network using resting state fMRI data
 year: 2019
 type: inproceedings
