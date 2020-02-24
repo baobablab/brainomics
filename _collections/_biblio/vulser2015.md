@@ -1,5 +1,5 @@
 ---
-author: H. Vulser, H. Lemaitre, E. Artiges, R. Miranda, J. Penttil\a, M. Struve, T. Fadai, ... D. Stephens.
+author: H. Vulser, H. Lemaitre, E. Artiges, R. Miranda, J. Penttilä, M. Struve, T. Fadai, ... D. Stephens.
 title: Subthreshold depression and regional brain volumes in young community adolescents
 journal: Journal of the American Academy of Child and Adolescent Psychiatry
 year: 2015

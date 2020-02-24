@@ -1,5 +1,5 @@
 ---
-author: T. L\ofstedt, F. Hadj-Selem, V. Guillemot, C. Philippe, E. Duchesnay, V. Frouin, & A. Tenenhaus.
+author: T. Löfstedt, F. Hadj-Selem, V. Guillemot, C. Philippe, E. Duchesnay, V. Frouin, & A. Tenenhaus.
 title: Structured variable selection for regularized generalized canonical correlation analysis
 year: 2016
 type: inproceedings
