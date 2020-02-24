@@ -33,8 +33,8 @@ permalink: /bibliography/other
         {% if entry.doi %}
             <a href="http://doi.org/{{entry.doi}}" class="button tiny">DOI</a>
         {% endif %}
-        {% if entry.url %}
-                    <a href="http://{{entry.url}}" class="button tiny">URL</a>
+        {% if entry.pdf %}
+            <a href="{{entry.pdf}}" class="button tiny">PDF</a>
         {% endif %}
         </li>
     </div>
