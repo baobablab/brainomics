@@ -82,7 +82,7 @@ for key, item in biblio.items():
     item["author"] = format_author(item["author"])
     md_file = os.path.join(args.outdir, key + ".md")
     content = ["---"]
-    for _key in ["author", "title", "journal", "year", "type", "url", "doi",
+    for _key in ["author", "title", "journal", "year", "type", "pdf", "doi",
                  "booktitle", "team", "volume", "number", "pages"]:
         value = item.get(_key, None)
         if value is None:
@@ -90,7 +90,8 @@ for key, item in biblio.items():
         for char in ("\n", "{", "}", "\\'", '"', "`", "'"):
             value = value.replace(char, "")
         for char in (":", ):
-            value = value.replace(char, " -")
+            if _key != "pdf":
+                value = value.replace(char, " -")
         content.append("{0}: {1}".format(_key, value))
     content += ["---"]
     with open(md_file, "wt") as of:
