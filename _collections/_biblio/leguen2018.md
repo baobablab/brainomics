@@ -4,7 +4,6 @@ title: eQTL of KCNK2 regionally influences the brain sulcal widening - evidence 
 journal: Brain structure \& function
 year: 2018
 type: article
-url: link.springer.com/10.1007/s00429-018-1808-9 http -//www.ncbi.nlm.nih.gov/pubmed/30519892
 doi: 10.1007/s00429-018-1808-9
 team: yes
 ---

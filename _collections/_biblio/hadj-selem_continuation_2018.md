@@ -4,7 +4,6 @@ title: Continuation of Nesterovs Smoothing for Regression with Structured Sparsi
 journal: IEEE Transactions on Medical Imaging
 year: 2018
 type: article
-url: ieeexplore.ieee.org/document/8345691/
 doi: 10.1109/TMI.2018.2829802
 team: yes
 pages: 1--1

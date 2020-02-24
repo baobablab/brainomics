@@ -4,7 +4,6 @@ title: Altered Connectivity Between Cerebellum, Visual, and Sensory-Motor Networ
 journal: Biological Psychiatry - Cognitive Neuroscience and Neuroimaging
 year: 2018
 type: article
-url: linkinghub.elsevier.com/retrieve/pii/S2451902218303069
 doi: 10.1016/j.bpsc.2018.11.010
 number: 2019
 ---

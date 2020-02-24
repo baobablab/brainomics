@@ -4,7 +4,6 @@ title: Shared genetic aetiology between cognitive performance and brain activati
 journal: Scientific Reports
 year: 2018
 type: article
-url: www.nature.com/articles/s41598-018-35665-0
 doi: 10.1038/s41598-018-35665-0
 team: yes
 volume: 8
