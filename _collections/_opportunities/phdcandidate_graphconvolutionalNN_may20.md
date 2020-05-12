@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Contribution of graph-convolutional neural networks for the analysis of multi-omic and multi-modal population data
 subcat: phd
 profile: Graduated from an engineer school or with a Master of science in applied mathematics, statistics, data science.
 background: optimization, biostatistics and scientific software development (Python, R, Matlab)
