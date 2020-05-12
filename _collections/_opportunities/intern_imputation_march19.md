@@ -5,6 +5,6 @@ subcat: internship
 profile: Schools of Engineering, Master Data Science.
 contact: cathy.philippe@cea.fr or vincent.frouin@cea.fr
 pdf: intern_imputation_march19.pdf
-date: 2020-03-01
+date: 2019-03-01
 ---
 
