@@ -1,3 +1,4 @@
+![Build Static Pages](https://github.com/baobablab/brainomicsteam/workflows/Build%20Static%20Pages/badge.svg)
 
 # Team member contributions - How To
 
