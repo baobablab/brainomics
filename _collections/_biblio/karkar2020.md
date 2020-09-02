@@ -1,5 +1,5 @@
 ---
-author: Slim Karkar, Claire Dandine-Roulland, Jean-Fran\ccois Mangin, Yann Le Guen, Cathy Philippe, Jean-Fran\ccois Deleuze, Morgane Pierre-Jean, ... Vincent Frouin.
+author: Slim Karkar, Claire Dandine-Roulland, Jean-François Mangin, Yann Le Guen, Cathy Philippe, Jean-François Deleuze, Morgane Pierre-Jean, ... Vincent Frouin.
 title: Genome-wide haplotype association study in imaging genetics using whole-brain sulcal openings of 16,304 UK Biobank subjects
 journal: bioRxiv
 year: 2020
