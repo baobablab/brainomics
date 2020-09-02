@@ -1,9 +1,9 @@
 ---
 layout: page
-name: Slim Karkar - PhD (2018-present)
+name: Slim Karkar - PhD (2018-March'20)
 title: Slim Karkar
-position: postdoc
+position: alumni
 avatar: 
-joined: 2017
+joined: 2018
 ---
 
