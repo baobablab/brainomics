@@ -1,6 +1,6 @@
 ---
 title: A. Gloaguen's defense (CentraleSupelec and online!)
 desc:
-ext_url: https://hal-cea.archives-ouvertes.fr/cea-02016625
+ext_url: 
 date: 2020-09-23
 ---
