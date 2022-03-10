@@ -2,7 +2,7 @@
 layout: page
 name: Lucile Mégret - PhD (2020-present)
 title: Lucile Mégret
-position: postdoc
+position: alumni
 avatar:
 joined: 2020
 ---
