@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Corentin Ambroise - Internship M2 DataScience Université Paris-Saclay (2020)
+name: Corentin Ambroise - PhD candidate Y PSay (2020-Present) co supervisor V Frouin, A Grigis
 title: Corentin Ambroise
 position: gradstudent
 avatar:

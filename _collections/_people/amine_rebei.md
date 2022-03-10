@@ -1,8 +1,8 @@
 ---
 layout: page
-name: Amine Rebei - PhD (2020-present)
+name: Amine Rebei - PhD
 title: Amine Rebei
-position: postdoc
+position: alumni
 avatar:
 joined: 2020
 ---
