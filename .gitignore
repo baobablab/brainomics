@@ -3,4 +3,5 @@ _site/
 .jekyll-cache/
 .jekyll-metadata
 _configLocal.yml
+_collections/_biblio/bib.yaml
 .~
