@@ -7,6 +7,7 @@ headline: The genetic architecture of language functional connectivity
 teasing: Using data from the UK Biobank, the world's largest general population imaging-genetics cohort, a collaboration led by a team at BAOBAB (NeuroSpin) has identified genes involved in the genetic architecture of functional language connectivity. These genes could be a priority for studying natural language.
 contact: yasmina.mekki@cea.fr, cathy.philippe@cea.fr, vincent.frouin@cea.fr
 icon: ig_language_h2gwas.png
+homepage: yes
 added: 2022
 ---
 
