@@ -7,7 +7,7 @@ headline: The chaotic morphology of the left superior temporal sulcus is genetic
 teasing: The asymmetry of the superior temporal sulcus (STS) has been identified as a species-specific feature of the human brain. The so-called superior temporal asymmetrical pit (STAP) area is observed from the last trimester of gestation onwards and is far less pronounced in the chimpanzee brain.
 contact: yann.leguen@cea.fr or vincent.frouin@cea.fr
 icon: chaos_sts_fundamental.png
-homepage: yes
+homepage: no
 added: 2019
 ---
 

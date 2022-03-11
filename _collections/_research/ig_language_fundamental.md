@@ -7,7 +7,8 @@ contact: yasmina.mekki@cea.fr, cathy.philippe@cea.fr, vincent.guillemot@cea.fr o
 headline: Imaging genetics and language in human
 teasing: Language is a singularity of the human species. Its complexity suggests that it is supplemented by an innate language capacity.
 icon: ig_language_fundamental.png
-added: 20210
+homepage: no
+added: 2020
 ---
 
 
