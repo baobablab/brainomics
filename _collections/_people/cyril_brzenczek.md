@@ -1,8 +1,8 @@
 ---
 layout: page
-name: Cyril Brzenczek - PhD (PostDoc 2022-present)
+name: Cyril Brzenczek - PhD (PostDoc 2022-2023)
 title: Cyril Brzenczek
-position: postdoc
+position: alumni
 avatar:
 joined: 2022
 ---

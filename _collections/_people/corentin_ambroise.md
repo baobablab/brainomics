@@ -1,8 +1,8 @@
 ---
 layout: page
-name: Corentin Ambroise - PhD candidate (2020-Present) co-supervisors V Frouin, A Grigis
+name: Corentin Ambroise - PhD 2024 (prepared under superv. V Frouin, A Grigis)
 title: Corentin Ambroise
-position: gradstudent
+position: alumni
 avatar:
 joined: 2020
 ---

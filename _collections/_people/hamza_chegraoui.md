@@ -1,8 +1,8 @@
 ---
 layout: page
-name: Hamza Chegraoui - PhD Candidate (2019-present) co-supervisors V Frouin C Philippe
+name: Hamza Chegraoui - PhD 2023 (prepared under superv. V Frouin C Philippe)
 title: Hamza Chegraoui
-position: gradstudent
+position: alumni
 avatar:
 joined: 2019
 ---
