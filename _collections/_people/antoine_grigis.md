@@ -22,6 +22,6 @@ NeuroSpin <br>
 France
 
 <!-- Section
-[Cathy](http://brainomics.org/) Researches.
+[Antoine](http://brainomics.org/) Researches.
 -->
 
