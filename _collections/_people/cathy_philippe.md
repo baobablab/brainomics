@@ -13,8 +13,7 @@ joined: 2015
 - _Data integration, CEA Saclay_
 -->
  
-<a href="http://joliot.cea.fr/drf/joliot/Pages/Entites_de_recherche/neurospin/UNATI/research.aspx?Type=Chapitre&num
-ero=1" class="image" target="_blank"><img src="{{site.url}}/{{site.baseurl}}/assets/images/cea.png" width="64" height="64" alt="image-title-here" /></a><br>
+<a href="https://joliot.cea.fr/drf/joliot/Pages/Entites_de_recherche/neurospin/BAOBAB/GAIA.aspx" class="image" target="_blank"><img src="{{site.url}}/{{site.baseurl}}/assets/images/cea.png" width="64" height="64" alt="image-title-here" /></a><br>
 
 
 
