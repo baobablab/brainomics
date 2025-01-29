@@ -15,8 +15,6 @@ joined: 2015
 
 <a href="https://joliot.cea.fr/drf/joliot/Pages/Plateformes_et_infrastructures/plateformes_imagerie/plateforme-neurospin.aspx" class="image" target="_blank"><img src="{{site.url}}/{{site.baseurl}}/assets/images/cea.png" width="64" height="64" alt="image-title-here" /></a><br>
 
-
-
 <i class="fa fa-envelope-o"></i> `antoine.grigis@cea.fr`
 
 **Office**<br>

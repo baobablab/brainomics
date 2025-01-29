@@ -1,6 +1,6 @@
 ---
 layout: page
-name: Vincent Frouin - HdR
+name: Vincent Frouin - HDR
 title: Vincent Frouin
 position: pi
 avatar: 
